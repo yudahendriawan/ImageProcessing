@@ -18,7 +18,8 @@ import javax.swing.event.ChangeEvent;
 import javax.swing.event.ChangeListener;
 
 public class ColorValueSliderControl extends JFrame {
-  public ColorValueSliderControl() {
+  
+    public ColorValueSliderControl() {
     getContentPane().add(new TColor());
     setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
     setSize(500, 500);

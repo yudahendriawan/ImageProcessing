@@ -22,6 +22,8 @@ import org.opencv.highgui.HighGui;
 import org.opencv.imgcodecs.Imgcodecs;
 
 public class Main {
+    
+    //http://www.java2s.com/Code/Java/Chart/JFreeChartCombinedXYPlotDemo4.htm
 
     static int width;
     static int height;
